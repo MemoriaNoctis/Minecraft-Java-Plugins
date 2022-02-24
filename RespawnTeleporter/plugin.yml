@@ -1,0 +1,9 @@
+name: RespawnTeleporter
+version: '${project.version}'
+main: me.rosalia.respawnteleporter.RespawnTeleporter
+api-version: 1.18
+authors: [ Rosalia ]
+description: Plugin that teleports player back to place of death, includes invulnerability period
+commands:
+  return:
+    description: return to location of death
